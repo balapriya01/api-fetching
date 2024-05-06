@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  flex-direction: column;
+}
+
+.con {
+  width: 1000px;
+  height: 250px;
+  box-shadow: 1px 1px 5px grey;
+  border: none;
+  border-radius: 7px;
+  padding: 20px;
+}
+
+.content{
+    color: brown;
+}
+
+.btn {
+  background-color: teal;
+  padding: 10px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-left: 44%;
+  cursor: pointer;
+}
